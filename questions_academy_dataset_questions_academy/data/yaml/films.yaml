@@ -1,0 +1,47 @@
+ID: 3ef8969b-c1fe-4f31-8fb3-02a0273710c1
+
+Question: >
+  In which movie does one of the characters try to phone home?
+
+Answers:
+  1: Close Encounters of the Third Kind
+  2: E.T. the Extra-Terrestrial
+  3: The Day the Earth Stood Still
+  4: Independence Day
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: c1e382b3-b4ec-431b-b769-69d57e60881a
+
+Question: >
+  In which movie franchise is "the force" a central plot feature?
+
+Answers:
+  1: Star Wars
+  2: Star Trek
+  3: Independence Day
+  4: Guardians of the Galaxy
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
