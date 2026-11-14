@@ -1,3 +1,3 @@
 [submodule "tests"]
 	path = tests
-	url = git@github.com:emerald-green-tech/questions-academy-dataset-tests.git
+	url = https://github.com/emerald-green-tech/questions-academy-dataset-tests.git
