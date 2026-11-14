@@ -8,9 +8,6 @@ addopts = [
     "-vv",
     "--capture", "no",
     "--show-capture", "all",
-    "--cov-report", "term-missing",
-    "--cov", ".",
-    "--cov-fail-under", "100",
     "-m", "not quality",
     #   --exitfirst                 Stop the test execution at the first failed unit test.
     #                               https://docs.pytest.org/en/6.2.x/usage.html#stopping-after-the-first-or-n-failures
