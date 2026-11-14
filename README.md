@@ -1,5 +1,7 @@
 # Questions Academy Dataset: Questions Academy #
 
+[![Tests](https://github.com/emerald-green-tech/questions-academy-dataset-questions-academy/actions/workflows/tests.yml/badge.svg)](https://github.com/emerald-green-tech/questions-academy-dataset-questions-academy/actions/workflows/tests.yml)
+
 This package contains a dataset of multiple choice questions and answers, created by the [Questions Academy] developers
 and contributors.
 
