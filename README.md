@@ -58,9 +58,8 @@ format, please open an [issue].
 
 ## Testing ##
 
-There are unit tests that validate the YAML schema and the question syntax, and spell check the questions and answers.
-The tests are in separate Git repository [questions-academy-dataset-tests]. If you want to run the tests, clone this
-repository including its submodules:
+There are data validation tests in separate Git repository [questions-academy-dataset-tests]. To run the tests, clone
+this repository including its submodules:
 
 ```sh
 git clone git@github.com:emerald-green-tech/questions-academy-dataset-opentriviaqa.git --recurse-submodules
@@ -91,6 +90,12 @@ You can increase the verbosity of the tests by setting the logging level to `INF
 ```sh
 pytest --log-cli-level INFO
 pytest --log-cli-level DEBUG
+```
+
+You can run the tests only on a single category by providing the category name, for example:
+
+```sh
+pytest --category country-capitals
 ```
 
 ## License

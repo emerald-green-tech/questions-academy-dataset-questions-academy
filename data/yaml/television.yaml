@@ -1,0 +1,279 @@
+ID: 58a3d68b-e4e6-4272-9525-12f3157f493e
+
+Question: |
+  What is the name of Captain Kirk's iconic starship in the original Star Trek series?
+
+Answers:
+  1: >
+    USS Enterprise
+  2: >
+    USS Voyager
+  3: >
+    USS Defiant
+  4: >
+    USS Discovery
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: b97ab783-3b8e-4255-8b2d-52a38c8b054f
+
+Question: |
+  Which alien species is famous for the logical philosophy of IDIC (Infinite Diversity in Infinite Combinations) and the Vulcan nerve pinch?
+
+Answers:
+  1: >
+    Klingon
+  2: >
+    Romulan
+  3: >
+    Vulcan
+  4: >
+    Borg
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 40d42e11-7fda-4eeb-8e3a-c0bb5aabd5fb
+
+Question: |
+  What is the favorite drink of Captain Jean-Luc Picard, which he orders from the replicator?
+
+Answers:
+  1: >
+    Romulan Ale
+  2: >
+    Hot Earl Grey tea
+  3: >
+    Synthehol
+  4: >
+    Raktajino
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: e54e5163-f7d1-4721-96af-2a64583c7548
+
+Question: |
+  Which Star Trek series is primarily set aboard a massive, stationary space station orbiting near a stable wormhole?
+
+Answers:
+  1: >
+    Star Trek: The Next Generation
+  2: >
+    Star Trek: Deep Space Nine
+  3: >
+    Star Trek: Voyager
+  4: >
+    Star Trek: Enterprise
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 931c6eb4-e2ff-42d8-bd0d-ca4c17c4102a
+
+Question: |
+  What is the name of the standing order that prohibits Starfleet personnel from interfering in the internal development of alien civilizations?
+
+Answers:
+  1: >
+    The Omega Directive
+  2: >
+    The Temporal Prime Directive
+  3: >
+    General Order 24
+  4: >
+    The Prime Directive
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 536e2974-63e4-4cf7-8349-fc3079b28ba7
+
+Question: |
+  In Seinfeld, what is the name of the fictional sitcom pitch that Jerry and George pitch to NBC?
+
+Answers:
+  1: >
+    A show about nothing
+  2: >
+    The apartment across the hall
+  3: >
+    Jerry
+  4: >
+    Life in New York
+
+Correct: 3
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 061a1726-6620-4892-82cc-169d2d08c058
+
+Question: |
+  In Seinfeld, what is Kramer's first name, which remains a mystery for several seasons?
+
+Answers:
+  1: >
+    Bob
+  2: >
+    Cosmo
+  3: >
+    Michael
+  4: >
+    Arthur
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 8c6b5bb2-c5ef-445a-913c-339a1d0f38bd
+
+Question: |
+  Which Seinfeld character works as a "repoman" and famously yells "Serenity now!"?
+
+Answers:
+  1: >
+    Frank Costanza
+  2: >
+    Newman
+  3: >
+    David Puddy
+  4: >
+    Uncle Leo
+
+Correct: 1
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: d92d8cb2-df55-4c3d-98d5-8a5ec4efffce
+
+Question: |
+  What is the name of the Manhattan restaurant where the main characters of Seinfeld frequently hang out in their booth?
+
+Answers:
+  1: >
+    Central Perk
+  2: >
+    Luke's Diner
+  3: >
+    Arnold's Drive-In
+  4: >
+    Monk's Café
+
+Correct: 4
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
+---
+ID: 632254ed-7e14-4315-a9a3-90e520f97221
+
+Question: |
+  What is the profession of Elaine Benes during the majority of the Seinfeld series?
+
+Answers:
+  1: >
+    Bookstore owner
+  2: >
+    Book editor
+  3: >
+    Architect
+  4: >
+    Marine biologist
+
+Correct: 2
+
+Explanation: |
+  None
+
+Active:
+  True
+
+Notes: >
+  None
+
+SchemaVersion: 1
